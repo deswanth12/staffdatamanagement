@@ -1,0 +1,22 @@
+# Staff Data Management System
+
+## Overview
+This project stores and manages employee records in one place.
+
+## Features
+- Add, update, delete staff
+- Search staff records
+- Secure data storage using database
+- Easy access to employee details
+
+## Tech Stack
+- Python
+- SQLite
+
+## How to Run
+1. Install Python
+2. Run:
+   python index.py
+
+## Author
+Deswanth
